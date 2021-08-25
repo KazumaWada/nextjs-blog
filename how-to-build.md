@@ -6,7 +6,7 @@ I want to understand how frontend language works.
 
 - React(Next)
 - Firebase
-- Netlify
+- Netlify(maybe im gonna use Versel bc everytime install something, netlify got some error. im tired of it.)
 
 # how to build step by step（i wrote this for myself）
 
