@@ -25,6 +25,11 @@ export default function Home() {
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Find in-depth information about Next.js features and API.</p>
+            <p class="text-lg font-semibold">
+        “Tailwind CSS is the only framework that I've seen scale
+        on large teams. It’s easy to customize, adapts to any design,
+        and the build size is tiny.”
+      </p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
