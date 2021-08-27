@@ -14,28 +14,16 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-     
-
       <main className={styles.main}>
-         
-      
-
         <Navbar></Navbar>
-
-  <h1 className={styles.title}>
+       <h1 className={styles.title}>
           My First Blog with Next.js!
         </h1>
-
         <p className={styles.description}>
           I know my code is sucks{' '}
         </p>
-
         <Tags></Tags>
-         <Posts></Posts> 
-
-      
-
-
+        <Posts></Posts> 
       </main>
 
       <footer className={styles.footer}>
