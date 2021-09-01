@@ -5,11 +5,13 @@ I want to understand how frontend language works.
 # technology will used
 
 - React(Next)
-- Firebase
+- RailsAPI
 - Netlify(maybe im gonna use Versel bc everytime install something, netlify got some error. im tired of it.)
 
-# how to build step by step（i wrote this for myself）
+# SPA にする。
 
-install TaillandCSS<br>
-make static page(blog post card, tags, category, about, admin?), <br>
-replace those with firebase and turn into dynamic.<br>
+- フォルダ作る。push する。react-blog/front
+  　　　　　　　　　　　　　　　　　　　/api
+- heroku チートシートを見て railsapi を作成、デプロイ。
+- どうやって cors やってるのかググる。
+- 実装。
